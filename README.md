@@ -8,6 +8,7 @@ While the **official** android version of the app from OpenClassrooms is yet to 
 
 ## How To Install
 Follow these steps to install:
+
 1.Open this [link](https://drive.google.com/open?id=1gSY1MTZMYxchHpsTxzWmc-xAFHsQRpDF) in your browser.
 
 2.Click on download (you miight get a warning that this type of file can be harmful to your device).
