@@ -7,12 +7,16 @@ While the **official** android version of the app from OpenClassrooms is yet to 
 
 
 ## How To Install
-1. Open this [link](https://drive.google.com/open?id=1gSY1MTZMYxchHpsTxzWmc-xAFHsQRpDF) in your browser.
+Follow these steps to install:
+1.Open this [link](https://drive.google.com/open?id=1gSY1MTZMYxchHpsTxzWmc-xAFHsQRpDF) in your browser.
+
 2.Click on download (you miight get a warning that this type of file can be harmful to your device).
-3. Click on open to install. By default, Google doesn't allow installations from sources outside the PlayStore. It that's true with your device:
+
+3.Click on open to install. By default, Google doesn't allow installations from sources outside the PlayStore. It that's true with your device:
 * click on settings there in the installation portal
 * scroll down to 'allow from this source'
 * toggle the switch on
 * go back to the installation page click install
+
 
 Your app should be installed. 
